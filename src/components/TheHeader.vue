@@ -35,7 +35,7 @@ const defaultAvatar =
 
 <style scoped>
 .app-header {
-  display: flex;
+  display: none !important;
   align-items: center;
   justify-content: space-between;
   width: 100%;
